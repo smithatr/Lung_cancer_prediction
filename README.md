@@ -1,5 +1,5 @@
-# Lung-Cancer-Prediction
-Title: Lung Cancer Prediction Using Machine Learning
+
+Title: "Lung Cancer Prediction Using Machine Learning"
 
 METHODOLOGY:
 The "Lung Cancer Prediction Using Machine Learning" project uses a model combining k-Nearest Neighbours, Random Forest, Balanced Random Forest, and Support Vector Machine to optimize precision, accuracy, and reliability in predicting lung cancer likelihood, addressing class imbalance concerns and high-dimensional feature spaces.
